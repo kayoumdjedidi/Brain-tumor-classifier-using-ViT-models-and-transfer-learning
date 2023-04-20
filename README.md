@@ -7,11 +7,19 @@ You will also find submission files.
 The notebook performs the following operations:
 
 1- Imports necessary libraries such as NumPy and Pandas.
+
 2- Prints the list of files in the input directory.
+
 3- Imports some deep learning libraries such as Keras, PyTorch, and FastAI.
+
 4- Defines the path to the training data directory.
+
 5- Defines data augmentation techniques such as flipping, rotating, zooming, and lighting.
+
 6- Defines the datablock and dataloaders by specifying the blocks, items, labels, splitter, item transforms, and batch transforms.
+
 7- Defines the model architecture using the Vision Transformer (ViT) model.
+
 8- Fine-tunes the ViT model on the given dataset using transfer learning to improve the model's performance on the task.
+
 
